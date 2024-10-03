@@ -1,3 +1,16 @@
+CAMERA_APP="
+com.motorola.camera2
+com.oneplus.camera
+com.xiaomi.camera
+com.google.android.GoogleCamera
+net.sourceforge.opencamera
+com.flavionet.android.camera.pro
+com.footej.camera
+com.riseupgames.proshot2
+com.marginz.snap
+com.halide.marki
+com.shopmoment.momentprocamera
+"
 OTT_APP="
 com.netflix.mediaclient
 com.amazon.avod.thirdpartyclient
@@ -8,6 +21,12 @@ com.apple.atve
 com.peacocktv.peacockandroid
 com.cbs.ott
 com.sling
+com.crunchyroll.crunchyroid
+com.instagram.android
+com.facebook.katana
+com.facebook.lite
+com.facebook.mlite
+com.facebook.orca
 "
 DIALER_APP="
 com.oneplus.dialer
@@ -60,6 +79,8 @@ com.supercell.clashofclans
 com.supercell.clashroyale
 com.madfingergames.legends
 com.studiowildcard.wardrumstudios.ark
+air.com.ubisoft.brawl.halla.platform.fighting.action.pvp
+com.Psyonix.RL2D
 "
 TGAME_APP="
 com.tencent.ig
@@ -70,4 +91,6 @@ com.miHoYo.genshin
 com.gameloft.android.ANMP.GloftA9HM
 com.pearlabyss.blackdesertm
 com.pearlabyss.blackdesertm.gl
+com.Mediatonic.FallGuys_client
+com.levelinfinite.sgameGlobal.midaspay
 "
