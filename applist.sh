@@ -3,6 +3,7 @@ com.motorola.camera2
 com.oneplus.camera
 com.xiaomi.camera
 com.google.android.GoogleCamera
+com.shamim.camera
 net.sourceforge.opencamera
 com.flavionet.android.camera.pro
 com.footej.camera
