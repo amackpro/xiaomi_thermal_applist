@@ -94,4 +94,7 @@ com.pearlabyss.blackdesertm
 com.pearlabyss.blackdesertm.gl
 com.Mediatonic.FallGuys_client
 com.levelinfinite.sgameGlobal.midaspay
+com.garena.game.kgvn
+com.YoStarEN.Arknights
+com.kurogame.wutheringwaves.global
 "
