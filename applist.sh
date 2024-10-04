@@ -48,6 +48,8 @@ com.duckduckgo.mobile.android
 com.vivaldi.browser
 com.google.android.apps.chrome
 idm.internet.download.manager.plus
+org.cromite.cromite
+org.chromium.thorium
 "
 VIDEO_APP="
 org.videolan.vlc
@@ -60,6 +62,8 @@ com.bsplayer.bspandroid.free
 video.player.videoplayer
 xmw.app.plex
 net.fixthephoto.videoeditor
+is.xyz.mpv
+com.brouken.player
 "
 BENCHMARK_APP="
 com.primatelabs.geekbench
