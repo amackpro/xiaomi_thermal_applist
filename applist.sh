@@ -78,6 +78,8 @@ com.andromeda.androbench2 com.cpuid.cpu_z
 com.passmark.pt_mobile
 com.a1dev.sdbench
 com.aurorasoftworks.quadrant.ui.standard
+com.antutu.benchmark.full
+com.antutu.benchmark.full.lite
 "
 GAME_APP="
 com.activision.callofduty.shooter
