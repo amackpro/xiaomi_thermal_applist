@@ -79,7 +79,7 @@ com.passmark.pt_mobile
 com.a1dev.sdbench
 com.aurorasoftworks.quadrant.ui.standard
 "
-MGAME_APP="
+GAME_APP="
 com.activision.callofduty.shooter
 com.supercell.clashofclans
 com.supercell.clashroyale
@@ -87,8 +87,6 @@ com.madfingergames.legends
 com.studiowildcard.wardrumstudios.ark
 air.com.ubisoft.brawl.halla.platform.fighting.action.pvp
 com.Psyonix.RL2D
-"
-TGAME_APP="
 com.tencent.ig
 com.pubg.imobile
 com.pubg.krmobile
