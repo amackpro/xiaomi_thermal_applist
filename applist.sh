@@ -74,7 +74,8 @@ com.antutu.ABenchMark
 com.futuremark.dmandroid.application
 net.kishonti.gfxbench.gl.v50000
 com.futuremark.pcmark.android.benchmark
-com.andromeda.androbench2 com.cpuid.cpu_z
+com.andromeda.androbench2
+com.cpuid.cpu_z
 com.passmark.pt_mobile
 com.a1dev.sdbench
 com.aurorasoftworks.quadrant.ui.standard
