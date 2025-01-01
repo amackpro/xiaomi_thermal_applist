@@ -81,6 +81,7 @@ com.a1dev.sdbench
 com.aurorasoftworks.quadrant.ui.standard
 com.antutu.benchmark.full
 com.antutu.benchmark.full.lite
+skynet.cputhrottlingtest
 "
 GAME_APP="
 com.activision.callofduty.shooter
